@@ -1,3 +1,5 @@
+> Stole the idea from [blyndusk](https://github.com/blyndusk/wdilt) :innocent:
+
 # What did I learn tonight? :moon:
 WDILT (short for What did I learn tonight) is a repository where I'm going to detail everything I learn every night.
 
