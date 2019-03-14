@@ -13,4 +13,4 @@ This first night is about Markdown.
 
 How do you want me to write a good readme without knowing that much about markdown?
 
-As it would take to much space here, you can go to my [test file](../resources/markdown/tests.md).
+As it would take to much space here, you can go to my [test file](https://github.com/ChriisX/wdilt/blob/master/resources/markdown/tests.md).
