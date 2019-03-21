@@ -16,3 +16,11 @@ This first night is about Markdown.
 How do you want me to write a good readme without knowing that much about markdown?
 
 As it would take to much space here, you can go to my [test file](https://github.com/ChriisX/wdilt/blob/master/resources/markdown/tests.md).
+
+# 03/22/2019 - 12:01
+
+Tonight I learned the bases of building a chrome extension.
+
+I used [this](https://developer.chrome.com/extensions/getstarted) resource, which aims to create a first extension that changes the background color of the chrome developer website.
+
+Also, I'll soon create a repository that will hold a chrome extension for viewing the time spent navigating everyday.
