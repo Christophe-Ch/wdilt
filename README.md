@@ -24,3 +24,10 @@ Tonight I learned the bases of building a chrome extension.
 I used [this](https://developer.chrome.com/extensions/getstarted) resource, which aims to create a first extension that changes the background color of the chrome developer website.
 
 Also, I'll soon create a repository that will hold a chrome extension for viewing the time spent navigating everyday.
+
+# 04/17/2019 - 11:24 PM
+(It's been a while since I last posted because I had a lot of work for school)
+
+This night and the previous one have been about Vue.JS, which I'll be using in a few days at my internship.
+
+I've created a little repository where I post all my tests: [vue-training](https://github.com/ChriisX/vue-training). I will try to keep it up to dateas much as possible.
